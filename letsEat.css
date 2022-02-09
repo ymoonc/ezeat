@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
+body{
+    background-color: orange;
+}
+.wrap{
+    
+    width: 100%;
+    display: block;
+}
+
+.banner{
+    display: flex;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    width: 100%;
+    padding: 5px 40px;
+    color: rgb(36, 37, 37);
+}
+.banner:hover{
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    transition: 0.2s;
+}
+
+.buttons{
+    display: block;
+    text-align: center;
+              
+}
+
+.item01 .b01{
+    width: 250px;
+    height: 120px;
+    color: rgb(252, 165, 107);
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #FC4C36;
+    border:#000 3px solid;
+    margin: 10px;
+    box-shadow: 9px 9px 3px #00000090
+}
+.item01 .b01:hover{
+    color: #FC4C36;
+    border: none;
+    background: rgb(252, 165, 107);
+    transition: 0.3s;
+}
+.item01 .BR01{
+    text-align: center;
+    margin: 10px 40px;
+    color: #FFF;
+    font-size: 25px;
+    
+}
+.item02 .b02{
+    width: 250px;
+    height: 120px;
+    color: #FFE3DF;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:  rgb(92, 130, 253);
+    border:#000 3px solid;
+    margin: 10px;   
+    box-shadow: 7px 7px 3px #00000090
+}
+.item02 .b02:hover{
+    color: rgb(92, 130, 253);
+    border: none;
+    background: #FFE3DF;
+    transition: 0.3s;
+}
+.item02 .LC01{
+    text-align: center;
+    margin: 10px 40px;
+    color: #FFF;
+    font-size: 25px;
+    
+}
+
+.item03 .b03{
+    width: 250px;
+    height: 120px;
+    color: #C8EDFF;
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(253, 108, 163);
+    border:#000 3px solid;
+    margin: 10px;   
+    box-shadow: 7px 7px 3px #00000090
+}
+.item03 .b03:hover{
+    color: rgb(253, 108, 163);
+    border: none;
+    background: #C8EDFF;
+    transition: 0.3s;
+}
+.item03 .DN01{
+    text-align: center;
+    margin: 10px 40px;
+    color: #FFF;    ;
+    font-size: 25px;
+    
+}
+
+.item04 .b04{
+    width: 250px;
+    height: 120px;
+    color: rgb(253, 252, 207);
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #74e049;
+    border:#000 3px solid;
+    margin: 10px;   
+    box-shadow: 7px 7px 3px #00000090
+}
+.item04 .b04:hover{
+    color: #74e049;
+    border: none;
+    background: rgb(253, 252, 207);
+    transition: 0.3s;
+}
+.item04 .NS01{
+    text-align: center;
+    margin: 10px 40px;
+    color: #FFF;
+    font-size: 25px;
+    
+}
+
